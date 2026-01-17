@@ -1,0 +1,8 @@
+kagglehub
+transformers
+torch
+accelerate
+sentencepiece
+openpyxl
+matplotlib
+python-dotenv
