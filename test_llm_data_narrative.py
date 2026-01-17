@@ -3,7 +3,7 @@ import os
 import shutil
 import tempfile
 import openpyxl
-from llm_data_narrative3 import ExcelChartAnalyzer
+from src.analysis import ExcelChartAnalyzer
 
 class TestExcelChartAnalyzer(unittest.TestCase):
     def setUp(self):
